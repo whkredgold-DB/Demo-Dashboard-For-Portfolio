@@ -26,7 +26,7 @@ The dashboard allows stakeholders to quickly identify overdue or defaulted payme
     (Risk Score = 0.40 × Payment_Status_Score + 0.30 × Days_Overdue_Score + 0.20 × Amount_Score + 0.10 × Service_Type_Score)
   - `Region`, `Account_Manager`  
 
-> See `/Payment Risk Demo Dashboard/Payment_Risk_Mock_Dataset.csv` for the full dataset.
+> See [https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Payment_Risk_Mock_Dataset.csv] for the full dataset.
 
 ---
 
