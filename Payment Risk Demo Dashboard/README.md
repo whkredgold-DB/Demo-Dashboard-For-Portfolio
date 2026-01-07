@@ -1,5 +1,12 @@
 # Payment Risk Dashboard
 
+## Disclaimer
+This dashboard is a demonstration project created for portfolio and educational purposes only. All data, figures, entities, and insights presented herein are entirely fictional and synthetically generated.
+
+The information does not represent actual clients, transactions, performance, or risk exposure of any organization. Any resemblance to real entities or real-world situations is purely coincidental.
+
+This dashboard is intended solely to showcase data analytics, visualization, and storytelling capabilities and should not be used for decision-making or relied upon as a reflection of real business conditions.
+
 ## Project Overview
 This dashboard monitors payment risk for a virtual financial services group offering **brokerage, asset management, and investment immigration services**.  
 The dashboard allows stakeholders to quickly identify overdue or defaulted payments, high-risk clients, and trends by service type.
