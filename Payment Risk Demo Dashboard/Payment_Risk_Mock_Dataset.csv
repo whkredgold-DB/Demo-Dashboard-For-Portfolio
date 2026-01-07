@@ -1,0 +1,201 @@
+Payment_ID,Client_ID,Client_Name,Service_Type,Invoice_Date,Due_Date,Payment_Amount,Payment_Status,Risk_Score,Region,Account_Manager
+P0001,C039,Rachel Ong,Asset Management,2025-03-16,2025-04-01,19231,Late,52,Johor,Wong Lee
+P0002,C029,Chen Mei,Asset Management,2025-01-18,2025-02-06,8490,Default,78,Penang,Tan Mei
+P0003,C015,Tan Wei,Investment Immigration,2025-03-17,2025-03-29,14310,Late,72,Penang,Tan Mei
+P0004,C043,Sarah Tan,Asset Management,2025-01-09,2025-01-19,12984,Late,14,Penang,Tan Mei
+P0005,C008,John Lim,Investment Immigration,2025-03-15,2025-03-29,22988,Paid,48,Johor,Wong Lee
+P0006,C021,John Lim,Brokerage,2025-02-27,2025-03-12,17219,Paid,87,Kuala Lumpur,Tan Mei
+P0007,C039,Lim Hui,Brokerage,2025-01-17,2025-02-05,5235,Paid,67,Johor,Lim Wei
+P0008,C019,Sarah Tan,Brokerage,2025-01-07,2025-01-24,15161,Paid,11,Johor,Lim Wei
+P0009,C023,David Lim,Brokerage,2025-02-15,2025-02-25,6908,Paid,58,Kuala Lumpur,Wong Lee
+P0010,C011,Mei Chen,Investment Immigration,2025-01-13,2025-02-01,13567,Paid,36,Johor,Wong Lee
+P0011,C011,Wong Lee,Asset Management,2025-02-09,2025-02-19,8530,Paid,60,Kuala Lumpur,Tan Mei
+P0012,C024,John Lim,Brokerage,2025-02-11,2025-02-24,10256,Paid,100,Johor,Wong Lee
+P0013,C036,Li Wei,Asset Management,2025-01-09,2025-01-26,24019,Late,42,Kuala Lumpur,Wong Lee
+P0014,C040,John Lim,Investment Immigration,2025-02-19,2025-03-05,13162,Paid,69,Penang,Lim Wei
+P0015,C024,Chen Mei,Investment Immigration,2025-01-27,2025-02-07,23944,Late,38,Johor,Lim Wei
+P0016,C003,John Lim,Investment Immigration,2025-03-07,2025-03-22,10415,Late,55,Johor,Tan Mei
+P0017,C022,John Lim,Brokerage,2025-01-05,2025-01-19,8391,Default,62,Johor,Wong Lee
+P0018,C002,Mei Chen,Asset Management,2025-01-29,2025-02-09,16157,Late,45,Johor,Wong Lee
+P0019,C024,Mei Chen,Asset Management,2025-02-06,2025-02-26,10951,Late,87,Penang,Lim Wei
+P0020,C044,Rachel Ong,Asset Management,2025-02-07,2025-02-27,13007,Default,10,Johor,Wong Lee
+P0021,C030,David Lim,Investment Immigration,2025-03-24,2025-04-13,14064,Default,61,Penang,Lim Wei
+P0022,C038,Li Wei,Brokerage,2025-01-08,2025-01-20,20524,Paid,76,Penang,Tan Mei
+P0023,C002,John Lim,Investment Immigration,2025-03-06,2025-03-24,24282,Paid,97,Penang,Lim Wei
+P0024,C021,John Lim,Investment Immigration,2025-03-27,2025-04-12,5077,Paid,24,Penang,Wong Lee
+P0025,C033,Wong Lee,Asset Management,2025-01-17,2025-02-02,12577,Paid,70,Kuala Lumpur,Tan Mei
+P0026,C012,Mei Chen,Investment Immigration,2025-03-12,2025-04-01,21984,Late,51,Kuala Lumpur,Lim Wei
+P0027,C022,Li Wei,Asset Management,2025-03-30,2025-04-14,19060,Late,3,Johor,Lim Wei
+P0028,C044,Lim Hui,Brokerage,2025-02-14,2025-03-03,22449,Late,58,Kuala Lumpur,Tan Mei
+P0029,C025,Rachel Ong,Asset Management,2025-01-04,2025-01-17,23520,Paid,71,Kuala Lumpur,Tan Mei
+P0030,C049,David Lim,Brokerage,2025-02-05,2025-02-22,15535,Late,19,Johor,Lim Wei
+P0031,C027,Sarah Tan,Asset Management,2025-03-11,2025-03-24,14510,Late,92,Johor,Wong Lee
+P0032,C042,David Lim,Investment Immigration,2025-01-31,2025-02-17,11943,Late,62,Johor,Lim Wei
+P0033,C028,Chen Mei,Investment Immigration,2025-01-19,2025-02-06,16954,Default,53,Kuala Lumpur,Tan Mei
+P0034,C016,John Lim,Brokerage,2025-03-02,2025-03-14,12804,Late,73,Kuala Lumpur,Lim Wei
+P0035,C015,Rachel Ong,Brokerage,2025-02-23,2025-03-07,11565,Paid,97,Johor,Tan Mei
+P0036,C047,Chen Mei,Brokerage,2025-02-08,2025-02-28,10984,Late,56,Penang,Tan Mei
+P0037,C044,Li Wei,Asset Management,2025-03-15,2025-03-26,9670,Paid,89,Johor,Wong Lee
+P0038,C003,Sarah Tan,Asset Management,2025-03-31,2025-04-19,23574,Paid,40,Penang,Tan Mei
+P0039,C037,Mei Chen,Brokerage,2025-01-19,2025-01-31,14184,Late,2,Penang,Tan Mei
+P0040,C007,Rachel Ong,Investment Immigration,2025-02-08,2025-02-20,24096,Paid,5,Johor,Wong Lee
+P0041,C021,Rachel Ong,Asset Management,2025-03-08,2025-03-22,7192,Late,4,Johor,Tan Mei
+P0042,C009,John Lim,Asset Management,2025-02-14,2025-02-28,6248,Paid,4,Johor,Wong Lee
+P0043,C039,Tan Wei,Asset Management,2025-01-13,2025-01-24,16246,Late,53,Kuala Lumpur,Wong Lee
+P0044,C018,Rachel Ong,Brokerage,2025-02-27,2025-03-18,17790,Paid,46,Penang,Tan Mei
+P0045,C004,Wong Lee,Brokerage,2025-01-20,2025-02-04,23381,Default,86,Kuala Lumpur,Tan Mei
+P0046,C025,Sarah Tan,Brokerage,2025-03-13,2025-03-27,8687,Late,48,Kuala Lumpur,Lim Wei
+P0047,C014,Sarah Tan,Brokerage,2025-03-02,2025-03-17,9018,Paid,8,Johor,Wong Lee
+P0048,C050,Wong Lee,Brokerage,2025-02-08,2025-02-18,16302,Paid,98,Kuala Lumpur,Lim Wei
+P0049,C009,Lim Hui,Investment Immigration,2025-01-01,2025-01-15,6970,Default,19,Johor,Tan Mei
+P0050,C026,Wong Lee,Investment Immigration,2025-01-03,2025-01-21,13389,Paid,60,Penang,Lim Wei
+P0051,C002,Wong Lee,Brokerage,2025-03-18,2025-04-06,22586,Paid,34,Johor,Wong Lee
+P0052,C020,Sarah Tan,Asset Management,2025-03-03,2025-03-14,20374,Paid,49,Kuala Lumpur,Lim Wei
+P0053,C028,David Lim,Brokerage,2025-03-04,2025-03-14,10788,Paid,81,Kuala Lumpur,Wong Lee
+P0054,C047,Sarah Tan,Investment Immigration,2025-01-25,2025-02-13,10408,Late,61,Johor,Tan Mei
+P0055,C007,Tan Wei,Investment Immigration,2025-02-25,2025-03-17,14446,Late,16,Johor,Tan Mei
+P0056,C044,John Lim,Asset Management,2025-02-02,2025-02-20,5922,Paid,87,Kuala Lumpur,Wong Lee
+P0057,C008,Chen Mei,Investment Immigration,2025-02-07,2025-02-26,5419,Paid,2,Penang,Tan Mei
+P0058,C047,David Lim,Brokerage,2025-01-06,2025-01-24,23588,Late,31,Penang,Tan Mei
+P0059,C035,Mei Chen,Asset Management,2025-02-27,2025-03-17,15789,Paid,98,Johor,Tan Mei
+P0060,C014,Chen Mei,Brokerage,2025-02-13,2025-02-28,6120,Paid,12,Penang,Tan Mei
+P0061,C017,John Lim,Brokerage,2025-02-14,2025-03-03,16260,Default,88,Kuala Lumpur,Wong Lee
+P0062,C036,Tan Wei,Asset Management,2025-02-01,2025-02-21,22334,Late,72,Johor,Lim Wei
+P0063,C050,Tan Wei,Brokerage,2025-02-14,2025-02-24,7336,Late,67,Kuala Lumpur,Lim Wei
+P0064,C040,Mei Chen,Investment Immigration,2025-03-02,2025-03-21,10373,Late,13,Kuala Lumpur,Tan Mei
+P0065,C004,David Lim,Brokerage,2025-02-16,2025-03-01,7243,Paid,100,Penang,Lim Wei
+P0066,C002,Lim Hui,Asset Management,2025-01-21,2025-01-31,24029,Late,97,Johor,Lim Wei
+P0067,C006,Wong Lee,Asset Management,2025-03-21,2025-04-07,9612,Paid,10,Johor,Tan Mei
+P0068,C042,David Lim,Asset Management,2025-03-26,2025-04-05,18946,Paid,55,Penang,Tan Mei
+P0069,C004,Lim Hui,Brokerage,2025-03-16,2025-03-28,23249,Paid,66,Kuala Lumpur,Lim Wei
+P0070,C029,Tan Wei,Asset Management,2025-02-05,2025-02-18,16104,Paid,91,Kuala Lumpur,Wong Lee
+P0071,C018,Sarah Tan,Asset Management,2025-01-19,2025-02-05,18429,Late,28,Kuala Lumpur,Tan Mei
+P0072,C026,John Lim,Brokerage,2025-01-20,2025-02-04,11371,Paid,8,Kuala Lumpur,Wong Lee
+P0073,C044,Mei Chen,Investment Immigration,2025-02-26,2025-03-17,11359,Paid,66,Johor,Lim Wei
+P0074,C034,John Lim,Brokerage,2025-01-18,2025-02-03,12863,Paid,24,Johor,Tan Mei
+P0075,C010,Li Wei,Asset Management,2025-02-16,2025-03-05,8228,Paid,97,Penang,Wong Lee
+P0076,C036,Li Wei,Asset Management,2025-02-18,2025-03-01,19382,Late,75,Penang,Tan Mei
+P0077,C014,David Lim,Brokerage,2025-01-14,2025-02-02,23755,Paid,41,Johor,Lim Wei
+P0078,C031,Tan Wei,Investment Immigration,2025-01-15,2025-02-04,7891,Late,8,Johor,Wong Lee
+P0079,C048,Tan Wei,Asset Management,2025-01-31,2025-02-17,8756,Paid,78,Kuala Lumpur,Lim Wei
+P0080,C015,Wong Lee,Asset Management,2025-01-01,2025-01-13,20770,Paid,39,Kuala Lumpur,Lim Wei
+P0081,C008,Wong Lee,Asset Management,2025-02-23,2025-03-11,21478,Late,24,Penang,Tan Mei
+P0082,C014,Wong Lee,Brokerage,2025-01-03,2025-01-15,7674,Paid,4,Johor,Wong Lee
+P0083,C023,Sarah Tan,Asset Management,2025-01-16,2025-02-01,11898,Late,10,Penang,Lim Wei
+P0084,C040,Chen Mei,Investment Immigration,2025-03-28,2025-04-17,15147,Paid,58,Johor,Lim Wei
+P0085,C021,Rachel Ong,Asset Management,2025-02-26,2025-03-09,5793,Paid,97,Kuala Lumpur,Wong Lee
+P0086,C016,Chen Mei,Asset Management,2025-03-16,2025-04-04,7116,Default,87,Penang,Lim Wei
+P0087,C045,John Lim,Investment Immigration,2025-01-12,2025-01-27,10779,Paid,78,Penang,Lim Wei
+P0088,C018,Chen Mei,Asset Management,2025-03-15,2025-03-27,17298,Paid,37,Johor,Wong Lee
+P0089,C047,Sarah Tan,Brokerage,2025-01-16,2025-01-28,19153,Late,71,Kuala Lumpur,Wong Lee
+P0090,C024,John Lim,Brokerage,2025-03-13,2025-03-31,16111,Paid,4,Penang,Wong Lee
+P0091,C026,Chen Mei,Brokerage,2025-03-17,2025-04-02,15789,Late,47,Kuala Lumpur,Wong Lee
+P0092,C025,Sarah Tan,Investment Immigration,2025-01-24,2025-02-07,16397,Paid,89,Penang,Tan Mei
+P0093,C045,Rachel Ong,Asset Management,2025-01-28,2025-02-16,17999,Default,17,Kuala Lumpur,Wong Lee
+P0094,C041,Chen Mei,Brokerage,2025-01-08,2025-01-24,5814,Late,69,Johor,Tan Mei
+P0095,C029,Sarah Tan,Investment Immigration,2025-02-05,2025-02-23,21729,Late,36,Penang,Tan Mei
+P0096,C015,Wong Lee,Asset Management,2025-03-31,2025-04-10,15541,Default,59,Penang,Tan Mei
+P0097,C045,Tan Wei,Investment Immigration,2025-01-08,2025-01-24,7443,Paid,47,Kuala Lumpur,Lim Wei
+P0098,C001,Wong Lee,Brokerage,2025-02-27,2025-03-14,15457,Default,76,Kuala Lumpur,Tan Mei
+P0099,C025,Tan Wei,Brokerage,2025-03-01,2025-03-20,15380,Paid,27,Penang,Tan Mei
+P0100,C007,Mei Chen,Brokerage,2025-02-19,2025-03-09,12783,Paid,68,Johor,Lim Wei
+P0101,C009,Mei Chen,Investment Immigration,2025-01-28,2025-02-07,16473,Paid,76,Kuala Lumpur,Lim Wei
+P0102,C024,Mei Chen,Investment Immigration,2025-02-10,2025-02-23,22368,Paid,80,Kuala Lumpur,Lim Wei
+P0103,C001,Rachel Ong,Brokerage,2025-03-05,2025-03-23,20328,Paid,39,Kuala Lumpur,Wong Lee
+P0104,C044,Wong Lee,Investment Immigration,2025-01-27,2025-02-09,5827,Late,44,Penang,Lim Wei
+P0105,C008,Tan Wei,Brokerage,2025-03-04,2025-03-23,24915,Late,95,Penang,Lim Wei
+P0106,C024,Sarah Tan,Brokerage,2025-01-17,2025-01-29,12147,Default,61,Penang,Tan Mei
+P0107,C011,John Lim,Asset Management,2025-03-14,2025-04-01,9451,Paid,92,Penang,Lim Wei
+P0108,C017,Sarah Tan,Investment Immigration,2025-02-02,2025-02-13,20343,Late,57,Johor,Wong Lee
+P0109,C008,John Lim,Brokerage,2025-03-25,2025-04-07,18635,Paid,66,Johor,Lim Wei
+P0110,C035,Li Wei,Brokerage,2025-03-18,2025-04-02,10959,Paid,55,Penang,Wong Lee
+P0111,C035,Sarah Tan,Investment Immigration,2025-01-29,2025-02-09,5126,Paid,39,Johor,Lim Wei
+P0112,C033,Chen Mei,Asset Management,2025-01-13,2025-01-30,24561,Paid,97,Kuala Lumpur,Lim Wei
+P0113,C005,Chen Mei,Asset Management,2025-02-15,2025-03-04,13795,Late,39,Kuala Lumpur,Lim Wei
+P0114,C042,David Lim,Brokerage,2025-02-04,2025-02-14,16641,Paid,90,Kuala Lumpur,Lim Wei
+P0115,C039,Wong Lee,Investment Immigration,2025-01-06,2025-01-18,12196,Paid,76,Penang,Wong Lee
+P0116,C041,John Lim,Asset Management,2025-03-23,2025-04-11,16559,Paid,32,Kuala Lumpur,Wong Lee
+P0117,C028,John Lim,Investment Immigration,2025-03-10,2025-03-28,8368,Paid,5,Johor,Tan Mei
+P0118,C007,Wong Lee,Investment Immigration,2025-02-16,2025-03-02,8797,Paid,87,Penang,Wong Lee
+P0119,C009,Rachel Ong,Brokerage,2025-01-25,2025-02-09,20114,Default,18,Johor,Lim Wei
+P0120,C008,David Lim,Asset Management,2025-03-07,2025-03-20,18718,Paid,79,Kuala Lumpur,Tan Mei
+P0121,C012,Rachel Ong,Brokerage,2025-01-10,2025-01-29,6792,Paid,39,Kuala Lumpur,Tan Mei
+P0122,C034,Rachel Ong,Asset Management,2025-02-25,2025-03-08,16053,Paid,91,Kuala Lumpur,Tan Mei
+P0123,C033,Rachel Ong,Asset Management,2025-01-30,2025-02-19,8476,Late,96,Penang,Lim Wei
+P0124,C048,Wong Lee,Asset Management,2025-01-05,2025-01-22,8417,Default,58,Johor,Wong Lee
+P0125,C023,Rachel Ong,Asset Management,2025-02-02,2025-02-22,6645,Late,58,Penang,Lim Wei
+P0126,C024,Chen Mei,Asset Management,2025-03-06,2025-03-21,19755,Late,47,Penang,Tan Mei
+P0127,C037,Mei Chen,Investment Immigration,2025-01-18,2025-02-01,24414,Paid,40,Kuala Lumpur,Lim Wei
+P0128,C035,Li Wei,Brokerage,2025-02-18,2025-03-08,24256,Paid,12,Penang,Lim Wei
+P0129,C044,John Lim,Investment Immigration,2025-01-11,2025-01-21,8072,Default,44,Penang,Wong Lee
+P0130,C040,John Lim,Asset Management,2025-03-26,2025-04-09,6854,Late,88,Kuala Lumpur,Wong Lee
+P0131,C022,Li Wei,Brokerage,2025-01-26,2025-02-10,9662,Late,52,Penang,Tan Mei
+P0132,C027,Wong Lee,Asset Management,2025-03-04,2025-03-18,11514,Late,41,Kuala Lumpur,Lim Wei
+P0133,C035,Sarah Tan,Brokerage,2025-03-30,2025-04-14,7708,Late,99,Kuala Lumpur,Lim Wei
+P0134,C001,Wong Lee,Investment Immigration,2025-03-27,2025-04-11,16694,Late,62,Kuala Lumpur,Wong Lee
+P0135,C035,John Lim,Brokerage,2025-02-28,2025-03-16,14524,Default,26,Kuala Lumpur,Lim Wei
+P0136,C037,John Lim,Brokerage,2025-01-27,2025-02-09,24891,Default,37,Penang,Lim Wei
+P0137,C047,Li Wei,Brokerage,2025-02-18,2025-03-10,11456,Late,59,Kuala Lumpur,Lim Wei
+P0138,C014,Rachel Ong,Brokerage,2025-03-18,2025-04-04,9212,Late,6,Kuala Lumpur,Wong Lee
+P0139,C003,Wong Lee,Brokerage,2025-02-02,2025-02-18,18224,Paid,4,Penang,Tan Mei
+P0140,C001,Tan Wei,Asset Management,2025-01-01,2025-01-19,12970,Late,44,Penang,Tan Mei
+P0141,C005,Li Wei,Brokerage,2025-01-21,2025-02-06,21920,Paid,57,Johor,Lim Wei
+P0142,C026,Chen Mei,Brokerage,2025-02-24,2025-03-08,6625,Paid,30,Penang,Tan Mei
+P0143,C014,John Lim,Investment Immigration,2025-01-06,2025-01-18,15314,Default,22,Penang,Wong Lee
+P0144,C039,Li Wei,Brokerage,2025-03-22,2025-04-08,12973,Paid,41,Johor,Wong Lee
+P0145,C027,Wong Lee,Investment Immigration,2025-03-10,2025-03-24,13577,Paid,9,Penang,Tan Mei
+P0146,C009,John Lim,Asset Management,2025-01-05,2025-01-18,13070,Paid,31,Penang,Tan Mei
+P0147,C015,Sarah Tan,Brokerage,2025-01-03,2025-01-20,13666,Paid,52,Penang,Lim Wei
+P0148,C015,Li Wei,Investment Immigration,2025-02-22,2025-03-09,8600,Late,29,Penang,Tan Mei
+P0149,C026,David Lim,Investment Immigration,2025-01-23,2025-02-03,11783,Paid,38,Johor,Lim Wei
+P0150,C042,John Lim,Asset Management,2025-02-22,2025-03-07,18226,Paid,30,Penang,Lim Wei
+P0151,C013,Wong Lee,Brokerage,2025-02-06,2025-02-26,14146,Paid,81,Penang,Wong Lee
+P0152,C032,Mei Chen,Brokerage,2025-03-15,2025-03-28,9971,Late,99,Johor,Wong Lee
+P0153,C039,Tan Wei,Investment Immigration,2025-03-15,2025-03-30,18490,Late,1,Kuala Lumpur,Wong Lee
+P0154,C049,Lim Hui,Brokerage,2025-03-24,2025-04-08,22589,Paid,77,Johor,Wong Lee
+P0155,C032,Rachel Ong,Investment Immigration,2025-01-17,2025-01-27,17951,Paid,76,Kuala Lumpur,Tan Mei
+P0156,C004,Lim Hui,Brokerage,2025-03-26,2025-04-12,17312,Paid,92,Johor,Wong Lee
+P0157,C030,Wong Lee,Investment Immigration,2025-03-19,2025-04-03,6990,Late,11,Johor,Tan Mei
+P0158,C037,Chen Mei,Brokerage,2025-03-14,2025-03-26,10299,Late,38,Penang,Wong Lee
+P0159,C023,Chen Mei,Asset Management,2025-01-01,2025-01-19,17997,Paid,65,Kuala Lumpur,Tan Mei
+P0160,C039,Mei Chen,Brokerage,2025-02-20,2025-03-03,24956,Paid,95,Penang,Lim Wei
+P0161,C045,Rachel Ong,Brokerage,2025-02-14,2025-03-06,18472,Paid,12,Kuala Lumpur,Tan Mei
+P0162,C015,David Lim,Asset Management,2025-03-18,2025-04-04,9380,Late,45,Johor,Tan Mei
+P0163,C043,Mei Chen,Brokerage,2025-01-04,2025-01-23,9757,Paid,26,Johor,Wong Lee
+P0164,C029,Lim Hui,Asset Management,2025-03-03,2025-03-15,24097,Paid,16,Kuala Lumpur,Tan Mei
+P0165,C036,Mei Chen,Brokerage,2025-03-06,2025-03-20,15395,Paid,94,Penang,Lim Wei
+P0166,C013,Lim Hui,Investment Immigration,2025-02-01,2025-02-16,21241,Paid,97,Penang,Lim Wei
+P0167,C032,John Lim,Investment Immigration,2025-02-03,2025-02-22,10588,Late,59,Penang,Wong Lee
+P0168,C007,Chen Mei,Brokerage,2025-03-13,2025-03-28,22350,Paid,63,Penang,Lim Wei
+P0169,C022,John Lim,Brokerage,2025-02-08,2025-02-21,9944,Late,87,Johor,Tan Mei
+P0170,C028,Tan Wei,Brokerage,2025-01-26,2025-02-07,18395,Late,34,Johor,Lim Wei
+P0171,C002,Rachel Ong,Investment Immigration,2025-02-03,2025-02-16,24816,Paid,69,Johor,Wong Lee
+P0172,C042,David Lim,Brokerage,2025-02-23,2025-03-05,22072,Paid,82,Johor,Tan Mei
+P0173,C045,Lim Hui,Investment Immigration,2025-01-03,2025-01-16,9243,Late,29,Johor,Wong Lee
+P0174,C006,David Lim,Asset Management,2025-02-19,2025-03-01,14916,Paid,70,Penang,Tan Mei
+P0175,C028,Lim Hui,Investment Immigration,2025-01-12,2025-01-22,14984,Paid,73,Penang,Lim Wei
+P0176,C028,Wong Lee,Investment Immigration,2025-03-06,2025-03-25,6759,Default,95,Penang,Wong Lee
+P0177,C044,Mei Chen,Asset Management,2025-02-23,2025-03-10,14181,Paid,97,Penang,Wong Lee
+P0178,C044,Tan Wei,Investment Immigration,2025-01-05,2025-01-19,7482,Paid,62,Johor,Tan Mei
+P0179,C020,Chen Mei,Brokerage,2025-02-26,2025-03-18,5951,Paid,27,Johor,Wong Lee
+P0180,C030,Lim Hui,Brokerage,2025-01-17,2025-01-30,7079,Default,59,Johor,Tan Mei
+P0181,C011,David Lim,Investment Immigration,2025-02-16,2025-03-08,7717,Paid,78,Kuala Lumpur,Tan Mei
+P0182,C028,Tan Wei,Brokerage,2025-01-23,2025-02-04,14692,Paid,93,Penang,Tan Mei
+P0183,C025,Sarah Tan,Investment Immigration,2025-03-20,2025-03-30,12311,Paid,36,Penang,Tan Mei
+P0184,C039,Sarah Tan,Brokerage,2025-03-26,2025-04-10,23449,Paid,92,Johor,Lim Wei
+P0185,C033,John Lim,Brokerage,2025-01-14,2025-01-25,5768,Paid,21,Penang,Tan Mei
+P0186,C001,Chen Mei,Investment Immigration,2025-03-07,2025-03-24,10490,Paid,67,Penang,Wong Lee
+P0187,C027,Wong Lee,Brokerage,2025-03-16,2025-04-04,20534,Paid,19,Johor,Lim Wei
+P0188,C013,David Lim,Investment Immigration,2025-02-20,2025-03-06,11645,Paid,95,Kuala Lumpur,Wong Lee
+P0189,C041,Mei Chen,Brokerage,2025-02-07,2025-02-23,10232,Paid,99,Kuala Lumpur,Lim Wei
+P0190,C003,Mei Chen,Brokerage,2025-03-05,2025-03-24,16485,Paid,67,Kuala Lumpur,Tan Mei
+P0191,C039,David Lim,Asset Management,2025-02-07,2025-02-18,10797,Paid,90,Johor,Lim Wei
+P0192,C006,Rachel Ong,Asset Management,2025-02-19,2025-03-08,24719,Paid,63,Penang,Lim Wei
+P0193,C008,Wong Lee,Investment Immigration,2025-03-23,2025-04-03,17342,Late,16,Johor,Wong Lee
+P0194,C027,Tan Wei,Asset Management,2025-01-30,2025-02-12,13038,Paid,11,Johor,Wong Lee
+P0195,C009,Lim Hui,Investment Immigration,2025-03-20,2025-03-30,21002,Paid,21,Penang,Tan Mei
+P0196,C037,Rachel Ong,Asset Management,2025-02-20,2025-03-06,18087,Paid,16,Kuala Lumpur,Lim Wei
+P0197,C033,Lim Hui,Brokerage,2025-03-04,2025-03-22,9873,Late,9,Kuala Lumpur,Lim Wei
+P0198,C042,Lim Hui,Investment Immigration,2025-02-21,2025-03-03,6481,Late,64,Johor,Lim Wei
+P0199,C044,Rachel Ong,Investment Immigration,2025-02-07,2025-02-25,15093,Paid,21,Kuala Lumpur,Tan Mei
+P0200,C024,John Lim,Brokerage,2025-03-29,2025-04-18,24835,Paid,89,Johor,Tan Mei
