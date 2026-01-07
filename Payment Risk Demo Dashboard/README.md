@@ -44,19 +44,19 @@ The dashboard allows stakeholders to quickly identify overdue or defaulted payme
 
 ## Dashboard Screenshots
 **Overview:**  
-![Dashboard Overview](Payment_Risk_Demo_Dashboard/Screenshot/payment_risk_dashboard_overview.png)
+[https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/payment%20risk%20dashboard%20overview.png]
 
 **Late Payment Trend:**  
-![Late Payment Trend by Service Type](Payment_Risk_Demo_Dashboard/Screenshot/Late_Payment_Trend_by_Service_Type.png)
+[https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/Late%20Payment%20Trend%20by%20Service%20Type.png]
 
 **Top High-Risk Clients:**  
-![Top High-Risk Clients](Payment_Risk_Demo_Dashboard/Screenshot/Top_High-Risk_Clients.png)
+[https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/Top%20High-Risk%20Clients.png]
 
 ---
 
 ## Interactive Dashboard Link
 Access the live interactive dashboard on **Tableau Public**:  
-[Insert Tableau Public Link Here](https://public.tableau.com/app/profile/hoong.kim.wong/viz/PaymentRiskDemoDashboard/Dashboard1?publish=yes)
+[https://public.tableau.com/app/profile/hoong.kim.wong/viz/PaymentRiskDemoDashboard/Dashboard1?publish=yes]
 
 ---
 
