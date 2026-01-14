@@ -51,13 +51,13 @@ The dashboard allows stakeholders to quickly identify overdue or defaulted payme
 
 ## Dashboard Screenshots
 **Overview:**  
-[https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/payment%20risk%20dashboard%20overview.png]
+![Payment Risk Dashboard Overview](https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/payment%20risk%20dashboard%20overview.png)
 
 **Late Payment Trend:**  
-[https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/Late%20Payment%20Trend%20by%20Service%20Type.png]
+![Late Payment Trend](https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/Late%20Payment%20Trend%20by%20Service%20Type.png)
 
 **Top High-Risk Clients:**  
-[https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/Top%20High-Risk%20Clients.png]
+![Top High-Risk Clients](https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/Screenshot/Top%20High-Risk%20Clients.png)
 
 ---
 
