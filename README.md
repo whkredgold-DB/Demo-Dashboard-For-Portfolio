@@ -12,6 +12,11 @@ To store data related demo dashboard for personal portfolio
 
 (https://github.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/blob/main/Payment%20Risk%20Demo%20Dashboard/README.md)
 
+### Payment Risk Dashboard
+
+![Payment Risk Dashboard Overview](Payment%20Risk%20Demo%20Dashboard/Screenshot/payment%20risk%20dashboard%20overview.png)
+
+
 ## 2\. Property Price Trend Demo Dashboard (PowerBI)
 
 ### README text for Project Overview and Disclaimer
@@ -20,7 +25,7 @@ To store data related demo dashboard for personal portfolio
 
 ### Dashboard Overview
 
-(https://raw.githubusercontent.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/main/Property%20Price%20Trend%20Demo%20Dashboard%20(PowerBI)/Screenshot/dashboard%20page.png)
+![Property Price Trend Demo Dashboard](https://raw.githubusercontent.com/whkredgold-DB/Demo-Dashboard-For-Portfolio/main/Property%20Price%20Trend%20Demo%20Dashboard%20(PowerBI)/Screenshot/dashboard%20page.png)
 
 
 
