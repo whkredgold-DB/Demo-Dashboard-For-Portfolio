@@ -1,0 +1,151 @@
+property_id,transaction_year,location,property_type,built_up_sqft,bedrooms,bathrooms,tenure,price_rm,price_per_sqft,near_transit
+1,2020,Wangsa Maju,Condo,625,3,2,Freehold,318750,510,Yes
+2,2020,Bangsar,Condo,1032,1,1,Freehold,878232,851,Yes
+3,2020,Setapak,Condo,1174,1,2,Freehold,572912,488,No
+4,2020,Bangsar,Condo,1032,2,2,Freehold,1013424,982,Yes
+5,2020,Mont Kiara,Condo,694,2,1,Leasehold,707880,1020,No
+6,2020,Bangsar,Apartment,1149,1,2,Freehold,1101891,959,No
+7,2020,Setapak,Apartment,1191,1,1,Freehold,602646,506,Yes
+8,2020,Bangsar,Condo,703,2,2,Leasehold,589817,839,No
+9,2020,Mont Kiara,Condo,873,3,1,Freehold,813636,932,Yes
+10,2020,Cheras,Apartment,1170,1,2,Freehold,647010,553,Yes
+11,2020,Mont Kiara,Apartment,874,1,1,Leasehold,901094,1031,Yes
+12,2020,Cheras,Apartment,746,2,1,Freehold,406570,545,No
+13,2020,Cheras,Apartment,970,1,1,Leasehold,529620,546,Yes
+14,2020,Bangsar,Condo,763,3,2,Freehold,669914,878,No
+15,2020,Cheras,Apartment,1166,1,1,Leasehold,558514,479,No
+16,2020,Cheras,Condo,1064,1,2,Freehold,593712,558,Yes
+17,2020,Mont Kiara,Condo,756,2,1,Freehold,753732,997,No
+18,2020,Bangsar,Apartment,914,1,1,Freehold,754050,825,Yes
+19,2020,Cheras,Condo,1145,1,1,Leasehold,566775,495,Yes
+20,2020,Setapak,Apartment,816,3,1,Leasehold,430032,527,No
+21,2020,Wangsa Maju,Apartment,1048,3,2,Freehold,543912,519,Yes
+22,2020,Mont Kiara,Condo,1167,1,1,Freehold,1214847,1041,Yes
+23,2020,Bangsar,Condo,669,1,2,Freehold,575340,860,Yes
+24,2020,Cheras,Condo,1152,1,2,Freehold,634752,551,No
+25,2020,KLCC,Condo,699,3,2,Leasehold,1029627,1473,No
+26,2021,Wangsa Maju,Condo,700,1,2,Leasehold,380100,543,Yes
+27,2021,KLCC,Apartment,743,2,1,Leasehold,1100383,1481,No
+28,2021,Bangsar,Apartment,1163,1,1,Freehold,1180445,1015,Yes
+29,2021,KLCC,Condo,1016,2,2,Freehold,1711960,1685,No
+30,2021,KLCC,Apartment,602,2,2,Leasehold,924070,1535,No
+31,2021,Wangsa Maju,Apartment,758,1,2,Freehold,440398,581,Yes
+32,2021,Setapak,Condo,921,1,1,Leasehold,418134,454,Yes
+33,2021,Setapak,Condo,790,1,1,Freehold,364190,461,No
+34,2021,Setapak,Condo,1192,3,1,Freehold,612688,514,No
+35,2021,Setapak,Apartment,867,1,2,Freehold,423096,488,No
+36,2021,Wangsa Maju,Apartment,1068,2,1,Freehold,624780,585,No
+37,2021,Setapak,Condo,675,3,1,Leasehold,365850,542,Yes
+38,2021,Bangsar,Condo,978,2,1,Leasehold,934968,956,No
+39,2021,Wangsa Maju,Condo,1167,2,1,Freehold,616176,528,No
+40,2021,Bangsar,Condo,878,2,1,Leasehold,852538,971,Yes
+41,2021,Mont Kiara,Apartment,857,1,1,Leasehold,809865,945,No
+42,2021,Mont Kiara,Condo,868,1,2,Leasehold,832412,959,Yes
+43,2021,Wangsa Maju,Condo,1158,1,2,Freehold,612582,529,No
+44,2021,Mont Kiara,Apartment,640,2,1,Freehold,645760,1009,Yes
+45,2021,Setapak,Apartment,758,1,1,Freehold,341858,451,No
+46,2021,Wangsa Maju,Apartment,1021,3,1,Leasehold,616684,604,Yes
+47,2021,Bangsar,Apartment,639,2,1,Freehold,579573,907,No
+48,2021,KLCC,Condo,624,3,1,Leasehold,929760,1490,No
+49,2021,Bangsar,Apartment,959,3,2,Leasehold,827617,863,Yes
+50,2021,Mont Kiara,Condo,1194,2,1,Freehold,1202358,1007,No
+51,2022,Mont Kiara,Apartment,1123,1,2,Freehold,1101663,981,No
+52,2022,Cheras,Condo,1132,3,1,Leasehold,580716,513,No
+53,2022,Wangsa Maju,Apartment,921,3,1,Leasehold,564573,613,No
+54,2022,Mont Kiara,Apartment,902,3,1,Freehold,1005730,1115,No
+55,2022,Cheras,Condo,1182,2,2,Freehold,634734,537,No
+56,2022,Cheras,Apartment,1076,2,2,Freehold,639144,594,No
+57,2022,Wangsa Maju,Condo,686,2,2,Freehold,421204,614,Yes
+58,2022,KLCC,Condo,750,1,1,Freehold,1242000,1656,No
+59,2022,Bangsar,Apartment,1024,3,1,Leasehold,974848,952,No
+60,2022,KLCC,Condo,709,2,1,Freehold,1045066,1474,No
+61,2022,KLCC,Condo,1067,1,2,Leasehold,1766952,1656,No
+62,2022,Wangsa Maju,Apartment,1161,2,1,Leasehold,655965,565,No
+63,2022,KLCC,Apartment,1133,2,1,Leasehold,1680239,1483,No
+64,2022,Mont Kiara,Condo,878,2,2,Freehold,881512,1004,Yes
+65,2022,Cheras,Condo,819,1,2,Leasehold,463554,566,No
+66,2022,Cheras,Condo,811,2,2,Freehold,453349,559,No
+67,2022,Mont Kiara,Apartment,999,2,1,Leasehold,1028970,1030,Yes
+68,2022,Cheras,Condo,998,2,2,Freehold,606784,608,No
+69,2022,Setapak,Condo,1003,3,1,Freehold,481440,480,No
+70,2022,Cheras,Condo,651,2,2,Leasehold,361956,556,Yes
+71,2022,Mont Kiara,Apartment,884,2,2,Freehold,862784,976,No
+72,2022,Setapak,Condo,958,1,1,Freehold,541270,565,Yes
+73,2022,KLCC,Condo,756,1,1,Leasehold,1239840,1640,Yes
+74,2022,KLCC,Apartment,862,2,1,Freehold,1525740,1770,Yes
+75,2022,Bangsar,Condo,919,3,2,Leasehold,816991,889,Yes
+76,2023,Wangsa Maju,Condo,704,3,2,Freehold,420288,597,Yes
+77,2023,Cheras,Apartment,670,3,2,Freehold,414730,619,No
+78,2023,Bangsar,Apartment,970,3,2,Freehold,913740,942,No
+79,2023,Setapak,Apartment,1151,2,2,Leasehold,596218,518,No
+80,2023,KLCC,Condo,885,2,1,Leasehold,1438125,1625,No
+81,2023,Cheras,Apartment,786,2,1,Leasehold,442518,563,No
+82,2023,Setapak,Apartment,1169,1,1,Freehold,655809,561,Yes
+83,2023,Cheras,Condo,1087,3,2,Leasehold,580458,534,Yes
+84,2023,KLCC,Apartment,849,2,2,Leasehold,1404246,1654,No
+85,2023,Wangsa Maju,Apartment,960,3,2,Leasehold,561600,585,No
+86,2023,Bangsar,Condo,923,1,1,Freehold,974688,1056,Yes
+87,2023,Mont Kiara,Apartment,702,1,2,Freehold,735696,1048,No
+88,2023,Bangsar,Condo,880,1,1,Leasehold,910800,1035,Yes
+89,2023,Cheras,Condo,612,3,2,Leasehold,351900,575,No
+90,2023,KLCC,Condo,858,2,1,Freehold,1438866,1677,No
+91,2023,Setapak,Condo,755,1,2,Freehold,374480,496,Yes
+92,2023,Cheras,Condo,1135,2,2,Leasehold,708240,624,No
+93,2023,Cheras,Apartment,1182,3,1,Freehold,705654,597,Yes
+94,2023,Mont Kiara,Condo,760,1,1,Freehold,766080,1008,Yes
+95,2023,Cheras,Apartment,898,1,1,Leasehold,544188,606,No
+96,2023,Cheras,Condo,839,2,1,Leasehold,492493,587,Yes
+97,2023,Wangsa Maju,Condo,872,1,1,Freehold,568544,652,Yes
+98,2023,Setapak,Apartment,1049,1,2,Leasehold,613665,585,No
+99,2023,Setapak,Apartment,1048,1,1,Leasehold,574304,548,No
+100,2023,Bangsar,Condo,834,3,1,Leasehold,884874,1061,Yes
+101,2024,KLCC,Apartment,1131,3,2,Leasehold,2162472,1912,Yes
+102,2024,Cheras,Apartment,693,2,2,Leasehold,402633,581,No
+103,2024,Bangsar,Condo,937,2,2,Leasehold,1039133,1109,No
+104,2024,Setapak,Condo,1065,1,2,Leasehold,547410,514,No
+105,2024,Cheras,Condo,1155,2,2,Freehold,698775,605,Yes
+106,2024,Setapak,Apartment,1052,1,1,Leasehold,635408,604,Yes
+107,2024,Cheras,Apartment,724,1,1,Freehold,440916,609,No
+108,2024,Setapak,Apartment,695,1,1,Leasehold,398235,573,Yes
+109,2024,KLCC,Apartment,898,3,2,Leasehold,1712486,1907,No
+110,2024,KLCC,Apartment,1164,1,2,Freehold,2172024,1866,Yes
+111,2024,Mont Kiara,Apartment,948,3,2,Freehold,1148976,1212,No
+112,2024,Setapak,Apartment,752,2,2,Leasehold,422624,562,No
+113,2024,Setapak,Apartment,1066,2,1,Freehold,561782,527,No
+114,2024,Cheras,Condo,925,3,2,Leasehold,612350,662,No
+115,2024,Wangsa Maju,Condo,1107,1,1,Leasehold,758295,685,Yes
+116,2024,Cheras,Condo,1138,2,1,Freehold,736286,647,No
+117,2024,KLCC,Condo,1080,2,2,Leasehold,2010960,1862,Yes
+118,2024,Wangsa Maju,Apartment,924,3,2,Freehold,558096,604,Yes
+119,2024,Wangsa Maju,Apartment,832,3,1,Leasehold,558272,671,Yes
+120,2024,Wangsa Maju,Condo,1054,1,2,Freehold,648210,615,Yes
+121,2024,Bangsar,Apartment,967,2,2,Freehold,1015350,1050,Yes
+122,2024,Setapak,Condo,774,1,1,Leasehold,430344,556,Yes
+123,2024,Setapak,Condo,837,2,2,Leasehold,481275,575,No
+124,2024,Cheras,Apartment,1159,1,1,Leasehold,767258,662,No
+125,2024,Mont Kiara,Apartment,856,2,2,Freehold,1062296,1241,No
+126,2025,Bangsar,Condo,990,3,2,Leasehold,966240,976,No
+127,2025,Wangsa Maju,Apartment,881,1,1,Leasehold,613176,696,No
+128,2025,KLCC,Apartment,824,3,1,Leasehold,1521104,1846,Yes
+129,2025,Wangsa Maju,Condo,916,2,1,Leasehold,554180,605,Yes
+130,2025,Mont Kiara,Apartment,1025,1,1,Freehold,1237175,1207,No
+131,2025,Mont Kiara,Condo,863,2,2,Leasehold,1028696,1192,Yes
+132,2025,Bangsar,Condo,831,3,2,Leasehold,949002,1142,Yes
+133,2025,Bangsar,Apartment,1149,1,2,Leasehold,1261602,1098,No
+134,2025,Wangsa Maju,Apartment,710,3,1,Leasehold,479250,675,Yes
+135,2025,Setapak,Apartment,826,3,1,Leasehold,489818,593,No
+136,2025,Bangsar,Condo,646,1,2,Leasehold,640832,992,Yes
+137,2025,Setapak,Condo,997,2,2,Leasehold,618140,620,Yes
+138,2025,Wangsa Maju,Condo,1101,3,2,Leasehold,754185,685,Yes
+139,2025,KLCC,Apartment,1055,1,2,Freehold,1915880,1816,No
+140,2025,Wangsa Maju,Apartment,662,2,2,Freehold,475978,719,Yes
+141,2025,Cheras,Condo,817,3,1,Freehold,482847,591,No
+142,2025,KLCC,Condo,670,3,1,Freehold,1164460,1738,Yes
+143,2025,KLCC,Condo,883,1,1,Leasehold,1464897,1659,Yes
+144,2025,Bangsar,Condo,615,2,1,Leasehold,620535,1009,Yes
+145,2025,Bangsar,Condo,1031,3,1,Freehold,1101108,1068,No
+146,2025,Mont Kiara,Condo,1062,3,1,Freehold,1262718,1189,No
+147,2025,Bangsar,Condo,1090,2,2,Freehold,1226250,1125,No
+148,2025,Cheras,Condo,682,2,1,Freehold,405790,595,Yes
+149,2025,Wangsa Maju,Apartment,990,3,2,Leasehold,600930,607,No
+150,2025,Wangsa Maju,Condo,1164,3,1,Leasehold,827604,711,No
