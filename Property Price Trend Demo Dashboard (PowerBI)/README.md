@@ -105,18 +105,18 @@ The project demonstrates **data cleaning, processing, analysis, and visualizatio
 
 ## Screenshots
 - **Dashboard Overview**  
-![Dashboard Overview](Screenshots/dashboard%20page.png)  
+![Dashboard Overview](Screenshot/dashboard%20page.png)  
 
 - **Price Trend**  
-![KPI Tiles](Screenshots/Average%20Price%20per%20Sqft%20Trend%20Page.png)
+![KPI Tiles](Screenshot/Average%20Price%20per%20Sqft%20Trend%20Page.png)
 
 - **Event and Market Drivers**  
-![Event and Market Drivers](Screenshots/Event%20and%20Market%20Drivers%20Page.png)  
+![Event and Market Drivers](Screenshot/Event%20and%20Market%20Drivers%20Page.png)  
 
 - **Impact of Transit Availability**  
-![Transit Impact](Screenshots/Impact%20of%20Transit%20Availability.png)
+![Transit Impact](Screenshot/Impact%20of%20Transit%20Availability.png)
 
 - **Recommendation and Strategy**  
-![Transit Availability](Screenshots/Recommendation%20and%20Strategy.png)  
+![Transit Availability](Screenshot/Recommendation%20and%20Strategy.png)  
 
 > *Screenshots are illustrative of the Power BI dashboard layout and analysis.*
